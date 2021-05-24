@@ -1,0 +1,7 @@
+com\springbootbatch\practice\listerner\JobCompletionListener.class
+com\springbootbatch\practice\config\BatchConfig.class
+com\springbootbatch\practice\SpringBatchApplication.class
+com\springbootbatch\practice\step\Processor.class
+com\springbootbatch\practice\step\Reader.class
+com\springbootbatch\practice\controller\JobInvokeController.class
+com\springbootbatch\practice\step\Writer.class
